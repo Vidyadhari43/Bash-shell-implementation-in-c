@@ -12,6 +12,8 @@
 #define max_size 1024
 #define max_hist_size 100
 
+//code by Ariveeti Sree Vidyadhari (21CS01043)
+
 void shell_init()
 {
     char curr_working_direc[max_size];
